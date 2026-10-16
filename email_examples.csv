@@ -1,0 +1,4 @@
+ID,Scenario,Classification,Risk,Indicators,Recommended action,Data type
+E-01,Unexpected account verification,Phishing,High,Look-alike sender; urgency; password/MFA request; unverified link,Do not click; report; contact provider via official channel,Synthetic example
+E-02,Invoice / payment detail change,Suspicious,Medium–High,Unexpected bank change; urgency; discourages phone verification,Pause payment; verify via known contact; notify finance/security,Synthetic example
+E-03,Routine meeting confirmation,Safe — example only,Low,Plausible context; still verify if unexpected,Check existing calendar invitation and known sender,Synthetic example
